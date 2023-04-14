@@ -1,6 +1,6 @@
 ## IntroDuction
 
-you can preview this project with [Travel Advisor App](https://project-traveladvisor-app.netlify.app/).
+you can preview this project with [Travel Advisor App](https://project-travel-advisor-app.netlify.app/).
 
 ## dependencies
 
